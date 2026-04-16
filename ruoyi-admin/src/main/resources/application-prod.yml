@@ -1,3 +1,4 @@
+
 --- # 监控中心配置
 spring.boot.admin.client:
   # 增加客户端开关
